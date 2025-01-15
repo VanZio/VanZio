@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hi there 👋 <br>Welcome to my GitHub! <br>I’m Arvan Talaska, a Web Developer and Computer Science Graduate with experience in both front-end and back-end development. I enjoy turning ideas into real-world applications and learning new technologies along the way.<br><br>🔭 Current Projects Hotel Web Application <br>– Building a robust hotel management system for efficient operations and seamless user interaction. Alumni Website <br>– Building a platform for alumni to connect and contribute, featuring e-commerce and donation capabilities to support its charitable mission.<br><br>
+Hi there 👋 <br>Welcome to my GitHub! <br>I’m Arvan Talaska, a Web Developer and Computer Science Graduate with experience in both front-end and back-end development. I enjoy turning ideas into real-world applications and learning new technologies along the way.<br><br>
+🔭 Current Projects <br> 
+Hotel Web Application <br>
+– Building a robust hotel management system for efficient operations and seamless user interaction.<br> 
+Alumni Website <br>
+– Building a platform for alumni to connect and contribute, featuring e-commerce and donation capabilities to support its charitable mission.<br><br>
 
 
 ## 🌐 Socials:
