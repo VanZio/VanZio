@@ -4,7 +4,8 @@ Hi there 👋 <br>Welcome to my GitHub! <br>I’m Arvan Talaska, a Web Developer
 Hotel Web Application <br>
 – Building a robust hotel management system for efficient operations and seamless user interaction.<br> 
 Alumni Website <br>
-– Building a platform for alumni to connect and contribute, featuring e-commerce and donation capabilities to support its charitable mission.<br><br>
+– Building a platform for alumni to connect and contribute, featuring e-commerce and donation capabilities to support its charitable mission.<br>
+- Flutter mobile development for a barbershop membership system<br><br>
 
 
 ## 🌐 Socials:
